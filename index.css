@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Slab:wght@900&display=swap');
+header, footer {
+  background-color: #38b6ff;
+  padding: 17px;
+}
+main {
+  padding: 10px;
+  background-color: silver;
+}
+#img {
+  width: 5%;
+}
+#god{
+  padding: 20px;
+  border-radius: 10px;
+  background: white;
+  margin: 20px;}
+#comment1{
+  padding: 20px;
+  border-radius: 10px;
+  background: white;
+  margin-left: 40px;
+}
+#comment2{
+  padding: 20px;
+  border-radius: 10px;
+  background: white;
+}
+#p {font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Slab', serif;}
